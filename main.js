@@ -61,7 +61,7 @@ Array(200).fill().forEach(addStar);
 // Background
 
 // const spaceTexture = new THREE.TextureLoader().load('space.jpg');
-const spaceTexture = new THREE.TextureLoader().load('astronaut.jpg');
+const spaceTexture = new THREE.TextureLoader().load('space.jpg');
 scene.background = spaceTexture;
 
 // Avatar
